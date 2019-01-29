@@ -1,0 +1,7 @@
+const
+
+function init() {
+
+}
+
+init();
