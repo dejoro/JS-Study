@@ -1,3 +1,5 @@
 # MASTER JAVASCRIPT NINJA
 
 자바스크립트 닌자 저장소
+
+2019_0129 TODO LIST 만들기
