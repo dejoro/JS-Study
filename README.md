@@ -1,5 +1,3 @@
-# vscode-git
+# MASTER JAVASCRIPT NINJA
 
-vscode git 을 사용하기 위한 저장소
-
-javascript Make Clock
+자바스크립트 닌자 저장소
